@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labs", "ConsoleApp1\labs.csproj", "{4B96E136-055C-4150-AEC4-ACAFFE9DC3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homelabs", "homelabs\homelabs.csproj", "{8EE563EA-29F8-497F-A2C3-5F8315B1D64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{C053AB32-2E33-4150-8897-25506E3E99E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B96E136-055C-4150-AEC4-ACAFFE9DC3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B96E136-055C-4150-AEC4-ACAFFE9DC3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B96E136-055C-4150-AEC4-ACAFFE9DC3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B96E136-055C-4150-AEC4-ACAFFE9DC3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE563EA-29F8-497F-A2C3-5F8315B1D64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE563EA-29F8-497F-A2C3-5F8315B1D64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE563EA-29F8-497F-A2C3-5F8315B1D64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE563EA-29F8-497F-A2C3-5F8315B1D64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C053AB32-2E33-4150-8897-25506E3E99E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C053AB32-2E33-4150-8897-25506E3E99E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C053AB32-2E33-4150-8897-25506E3E99E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C053AB32-2E33-4150-8897-25506E3E99E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7C2247-D2FB-46D7-BC0E-38B0ACD95116}
+	EndGlobalSection
+EndGlobal
