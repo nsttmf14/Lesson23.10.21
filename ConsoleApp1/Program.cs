@@ -66,7 +66,7 @@ namespace ConsoleApp1
             double Buffer = Convert.ToDouble(acc[2]);
             if (choise.Equals(1))
             {
-                Console.WriteLine("Деньги переведены...");
+                Console.WriteLine("Спасибо, деньги переведены");
                 Buffer -= transfer;
                 balance2nd += transfer;
             }
@@ -74,7 +74,7 @@ namespace ConsoleApp1
             {
                 if (balance2nd >= transfer)
                 {
-                    Console.WriteLine("Деньги зачислены...");
+                    Console.WriteLine("Спасибо, деньги зачислены");
                     Buffer += transfer;
                     balance2nd -= transfer;
                 }
